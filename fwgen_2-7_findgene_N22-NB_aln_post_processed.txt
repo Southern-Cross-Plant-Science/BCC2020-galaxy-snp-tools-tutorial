@@ -1,0 +1,77 @@
+Chr1	34425818	34427049	+	LOC_Os01g59540	LOC_Os01g59540.1	GRF zinc finger family protein
+Chr1	36317205	36318022	+	LOC_Os01g62720	LOC_Os01g62720.1	GRF zinc finger family protein
+Chr1	42830103	42830920	-	LOC_Os01g73920	LOC_Os01g73920.1	hypothetical protein
+Chr2	956628	960792	-	LOC_Os02g02610	LOC_Os02g02610.1	transposon protein, putative, unclassified, expressed
+Chr2	21995376	22002735	+	LOC_Os02g36414	LOC_Os02g36414.1	transporter family protein, putative, expressed
+Chr2	22043694	22046900	-	LOC_Os02g36500	LOC_Os02g36500.1	expressed protein
+Chr2	22053938	22054860	-	LOC_Os02g36505	LOC_Os02g36505.1	expressed protein
+Chr2	22056928	22058611	+	LOC_Os02g36510	LOC_Os02g36510.1	ethylene-insensitive 3, putative, expressed
+Chr2	22060800	22064176	+	LOC_Os02g36520	LOC_Os02g36520.1	OsFBK9 - F-box domain and kelch repeat containing protein, expressed
+Chr2	22068014	22070683	-	LOC_Os02g36550	LOC_Os02g36550.1	phosphopantothenate--cysteine ligase, putative, expressed
+Chr2	22077489	22085283	+	LOC_Os02g36570	LOC_Os02g36570.1	ABC1 family domain containing protein, putative, expressed
+Chr2	22096006	22100897	+	LOC_Os02g36590	LOC_Os02g36590.1	CPuORF19 - conserved peptide uORF-containing transcript, expressed
+Chr2	22098509	22100476	+	LOC_Os02g36595	LOC_Os02g36595.1	expressed protein
+Chr2	22102488	22105124	+	LOC_Os02g36600	LOC_Os02g36600.1	aldose 1-epimerase, putative, expressed
+Chr2	22110121	22117660	+	LOC_Os02g36619	LOC_Os02g36619.1	exo70 exocyst complex subunit, putative, expressed
+Chr2	22135516	22136944	-	LOC_Os02g36670	LOC_Os02g36670.1	expressed protein
+Chr2	22140602	22141996	-	LOC_Os02g36680	LOC_Os02g36680.1	expressed protein
+Chr2	22144257	22144998	-	LOC_Os02g36690	LOC_Os02g36690.1	expressed protein
+Chr2	22146420	22150147	-	LOC_Os02g36700	LOC_Os02g36700.1	sucrose transporter BoSUT1, putative, expressed
+Chr2	22151432	22156042	-	LOC_Os02g36710	LOC_Os02g36710.1	SET, putative, expressed
+Chr2	22163299	22167383	-	LOC_Os02g36740	LOC_Os02g36740.1	zinc finger, C3HC4 type, putative, expressed
+Chr2	22215057	22217951	+	LOC_Os02g36830	LOC_Os02g36830.1	cytokinin-O-glucosyltransferase 2, putative, expressed
+Chr2	22229412	22231714	+	LOC_Os02g36840	LOC_Os02g36840.1	cytokinin-O-glucosyltransferase 2, putative, expressed
+Chr2	22234374	22235445	-	LOC_Os02g36850	LOC_Os02g36850.1	oxygen evolving enhancer protein 3, identical, putative, expressed
+Chr2	22244988	22247595	+	LOC_Os02g36870	LOC_Os02g36870.1	YGL010w, putative, expressed
+Chr2	22258833	22260681	+	LOC_Os02g36880	LOC_Os02g36880.1	No apical meristem protein, putative, expressed
+Chr2	22267920	22270242	+	LOC_Os02g36890	LOC_Os02g36890.1	MYB family transcription factor, putative, expressed
+Chr2	22294657	22301808	+	LOC_Os02g36924	LOC_Os02g36924.1	OsMADS27 - MADS-box family gene with MIKCc type-box, expressed
+Chr2	22311833	22313162	-	LOC_Os02g36940	LOC_Os02g36940.1	uncharacterized Cys-rich domain containing protein, putative, expressed
+Chr2	22327294	22331805	-	LOC_Os02g36960	LOC_Os02g36960.1	choline transporter-related, putative, expressed
+Chr2	22333281	22337713	+	LOC_Os02g36974	LOC_Os02g36974.1	14-3-3 protein, putative, expressed
+Chr2	22339538	22343504	-	LOC_Os02g36990	LOC_Os02g36990.1	dynein light chain type 1 family protein, putative, expressed
+Chr2	22347063	22348185	-	LOC_Os02g37000	LOC_Os02g37000.1	mitochondrial prohibitin complex protein 1, putative, expressed
+Chr2	22350068	22352009	+	LOC_Os02g37010	LOC_Os02g37010.1	flavin-containing monooxygenase family protein, putative, expressed
+Chr2	22355174	22362057	+	LOC_Os02g37020	LOC_Os02g37020.1	expressed protein
+Chr2	22365255	22367333	-	LOC_Os02g37030	LOC_Os02g37030.1	protein binding protein, putative, expressed
+Chr2	22381199	22390006	+	LOC_Os02g37050	LOC_Os02g37050.1	phosphatidylinositolglycan class N family protein, expressed
+Chr2	22401334	22402093	+	LOC_Os02g37070	LOC_Os02g37070.1	expressed protein
+Chr2	22407703	22412324	-	LOC_Os02g37080	LOC_Os02g37080.1	ASC1, putative, expressed
+Chr2	22432053	22432863	+	LOC_Os02g37100	LOC_Os02g37100.1	expressed protein
+Chr2	22436071	22440885	-	LOC_Os02g37120	LOC_Os02g37120.1	expressed protein
+Chr2	22452697	22457747	-	LOC_Os02g37140	LOC_Os02g37140.1	expressed protein
+Chr2	22468180	22469788	-	LOC_Os02g37160	LOC_Os02g37160.1	heavy metal transport/detoxification protein, putative, expressed
+Chr2	22477782	22478946	-	LOC_Os02g37190	LOC_Os02g37190.1	expressed protein
+Chr2	22481648	22482417	-	LOC_Os02g37200	LOC_Os02g37200.1	hydrophobin, putative, expressed
+Chr2	22509898	22510548	-	LOC_Os02g37250	LOC_Os02g37250.1	hypothetical protein
+Chr2	22529385	22531323	-	LOC_Os02g37260	LOC_Os02g37260.1	hypothetical protein
+Chr2	22559095	22559507	-	LOC_Os02g37320	LOC_Os02g37320.1	heavy metal associated domain containing protein, expressed
+Chr2	22561898	22562946	-	LOC_Os02g37330	LOC_Os02g37330.1	heavy metal associated domain containing protein, expressed
+Chr2	22572214	22573341	-	LOC_Os02g37360	LOC_Os02g37360.1	expressed protein
+Chr2	22579160	22580613	-	LOC_Os02g37380	LOC_Os02g37380.1	expressed protein
+Chr2	22586027	22586612	-	LOC_Os02g37390	LOC_Os02g37390.1	expressed protein
+Chr2	22599387	22602227	+	LOC_Os02g37420	LOC_Os02g37420.1	ras-related protein, putative, expressed
+Chr2	22602327	22605758	-	LOC_Os02g37430	LOC_Os02g37430.1	LSM domain containing protein, expressed
+Chr2	22607316	22609208	+	LOC_Os02g37440	LOC_Os02g37440.1	expressed protein
+Chr2	22617503	22620105	+	LOC_Os02g37470	LOC_Os02g37470.1	tetratricopeptide repeat containing protein, putative, expressed
+Chr2	22622379	22623188	+	LOC_Os02g37480	LOC_Os02g37480.1	glycine-rich cell wall structural protein precursor, putative, expressed
+Chr2	22626272	22627191	+	LOC_Os02g37490	LOC_Os02g37490.1	glycine-rich cell wall structural protein precursor, putative, expressed
+Chr2	22636061	22636963	+	LOC_Os02g37500	LOC_Os02g37500.1	expressed protein
+Chr2	22644916	22645593	+	LOC_Os02g37520	LOC_Os02g37520.1	RNA-binding protein FUS, putative, expressed
+Chr2	22650959	22651932	+	LOC_Os02g37540	LOC_Os02g37540.1	expressed protein
+Chr2	22655510	22656126	+	LOC_Os02g37550	LOC_Os02g37550.1	expressed protein
+Chr2	22662564	22663395	+	LOC_Os02g37570	LOC_Os02g37570.1	keratin-associated protein 5-3, putative, expressed
+Chr2	22666455	22671479	-	LOC_Os02g37580	LOC_Os02g37580.1	fimbrin-like protein 2, putative, expressed
+Chr2	22687278	22692280	+	LOC_Os02g37590	LOC_Os02g37590.1	glycerophosphoryl diester phosphodiesterase family protein, putative, expressed
+Chr2	22692610	22694001	+	LOC_Os02g37600	LOC_Os02g37600.1	expressed protein
+Chr2	22741363	22743361	-	LOC_Os02g37690	LOC_Os02g37690.1	UDP-glucoronosyl and UDP-glucosyl transferase, putative, expressed
+Chr2	22756410	22758226	-	LOC_Os02g37700	LOC_Os02g37700.1	lecithin:cholesterol acyltransferase, putative, expressed
+Chr2	22815012	22815446	+	LOC_Os02g37820	LOC_Os02g37820.1	expressed protein
+Chr2	22822064	22826220	-	LOC_Os02g37830	LOC_Os02g37830.1	protein kinase domain containing protein, expressed
+Chr4	16144600	16148395	+	LOC_Os04g27320	LOC_Os04g27320.1	transposon protein, putative, unclassified
+Chr4	23990892	23991709	-	LOC_Os04g40350	LOC_Os04g40350.1	GRF zinc finger family protein
+Chr4	28786771	28787582	-	LOC_Os04g48300	LOC_Os04g48300.1	hypothetical protein
+Chr4	31575624	31576441	+	LOC_Os04g53020	LOC_Os04g53020.1	GRF zinc finger family protein
+Chr5	16443540	16453833	-	LOC_Os05g28120	LOC_Os05g28120.1	transposon protein, putative, unclassified, expressed
+Chr5	21158434	21159251	-	LOC_Os05g35610	LOC_Os05g35610.1	hypothetical protein
+Chr12	23650623	23651467	+	LOC_Os12g38510	LOC_Os12g38510.1	GRF zinc finger family protein

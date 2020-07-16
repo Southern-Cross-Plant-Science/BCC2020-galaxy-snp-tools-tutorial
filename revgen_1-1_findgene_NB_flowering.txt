@@ -1,0 +1,23 @@
+Chr1	5652593	5655352	+	LOC_Os01g10590	LOC_Os01g10590.1	osFTL8  FT-Like8 homologous to Flowering Locus T  gene; contains Pfam profile PF01161: Phosphatidylethanolamine-binding protein, expressed
+Chr1	6494516	6499769	+	LOC_Os01g11940	LOC_Os01g11940.1	osFTL1  FT-Like1 homologous to Flowering Locus T  gene; contains Pfam profile PF01161: Phosphatidylethanolamine-binding protein, expressed
+Chr1	8586049	8586941	-	LOC_Os01g15340	LOC_Os01g15340.1	flowering promoting factor-like 1, putative, expressed
+Chr1	31343364	31345522	+	LOC_Os01g54490	LOC_Os01g54490.1	osFTL9  FT-Like9 homologous to Flowering Locus T  gene; contains Pfam profile PF01161: Phosphatidylethanolamine-binding protein
+Chr1	40942204	40943109	-	LOC_Os01g70730	LOC_Os01g70730.1	flowering promoting factor-like 1, putative, expressed
+Chr2	7485426	7487001	+	LOC_Os02g13830	LOC_Os02g13830.1	osFTL13  FT-Like13 homologous to Flowering Locus T  gene; contains Pfam profile PF01161: Phosphatidylethanolamine-binding protein, expressed
+Chr2	15397394	15398605	-	LOC_Os02g26210	LOC_Os02g26210.1	flowering promoting factor-like 1, putative, expressed
+Chr2	23585294	23587742	-	LOC_Os02g39064	LOC_Os02g39064.1	osFTL5  FT-Like5 homologous to Flowering Locus T  gene; contains Pfam profile PF01161: Phosphatidylethanolamine-binding protein, expressed
+Chr3	16919954	16922462	-	LOC_Os03g29680	LOC_Os03g29680.1	EARLY flowering protein, putative, expressed
+Chr4	12062939	12063828	-	LOC_Os04g21350	LOC_Os04g21350.1	flowering promoting factor-like 1, putative, expressed
+Chr4	24391002	24395755	-	LOC_Os04g41130	LOC_Os04g41130.1	osFTL6  FT-Like6 homologous to Flowering Locus T  gene; contains Pfam profile PF01161: Phosphatidylethanolamine-binding protein, expressed
+Chr5	25667455	25669369	-	LOC_Os05g44180	LOC_Os05g44180.1	osFTL10  FT-Like10 homologous to Flowering Locus T  gene; contains Pfam profile PF01161: Phosphatidylethanolamine-binding protein, expressed
+Chr6	2926823	2928474	+	LOC_Os06g06300	LOC_Os06g06300.1	osFTL3  FT-Like3 homologous to Flowering Locus T  gene; contains Pfam profile PF01161: Phosphatidylethanolamine-binding protein, expressed
+Chr6	2940004	2942452	+	LOC_Os06g06320	LOC_Os06g06320.1	osFTL2  FT-Like2 homologous to Flowering Locus T  gene; contains Pfam profile PF01161: Phosphatidylethanolamine-binding protein, expressed
+Chr6	20971626	20974233	-	LOC_Os06g35940	LOC_Os06g35940.1	osFTL12  FT-Like12 homologous to Flowering Locus T  gene; contains Pfam profile PF01161: Phosphatidylethanolamine-binding protein, expressed
+Chr7	28367895	28368346	+	LOC_Os07g47450	LOC_Os07g47450.1	flowering promoting factor-like 1, putative, expressed
+Chr8	16988474	16991367	+	LOC_Os08g27860	LOC_Os08g27860.1	EARLY flowering protein, putative, expressed
+Chr8	16994594	16996882	-	LOC_Os08g27870	LOC_Os08g27870.1	EARLY flowering protein, putative, expressed
+Chr9	1790600	1799611	+	LOC_Os09g03610	LOC_Os09g03610.1	flowering time control protein FCA, putative, expressed
+Chr9	19981179	19986301	-	LOC_Os09g33850	LOC_Os09g33850.1	osFTL4  FT-Like4 homologous to Flowering Locus T  gene; contains Pfam profile PF01161: Phosphatidylethanolamine-binding protein, expressed
+Chr11	10732922	10734798	+	LOC_Os11g18870	LOC_Os11g18870.1	osFTL11  FT-Like11 homologous to Flowering Locus T  gene; contains Pfam profile PF01161: Phosphatidylethanolamine-binding protein, expressed
+Chr11	24230448	24233456	+	LOC_Os11g40610	LOC_Os11g40610.1	EARLY flowering protein, putative, expressed
+Chr12	7235000	7236919	+	LOC_Os12g13030	LOC_Os12g13030.1	osFTL7  FT-Like7 homologous to Flowering Locus T  gene; contains Pfam profile PF01161: Phosphatidylethanolamine-binding protein, expressed

@@ -1,0 +1,7 @@
+pathway	pval	padj	ES	NES	nMoreExtreme	size	leadingEdge
+Physiological trait|Germination dormancy|OsHsp23.7|OsHsp23.7|Drought and salinity tolerance. Sensitivity to mannitol and salt during germination stage.	0.0421686746987952	0.0681818181818182	1	1.32939147573294	20	1	LOC_Os12g38510
+Resistance or Tolerance|Drought tolerance|OsHsp23.7|OsHsp23.7|Drought and salinity tolerance. Sensitivity to mannitol and salt during germination stage.	0.0421686746987952	0.0681818181818182	1	1.32939147573294	20	1	LOC_Os12g38510
+Resistance or Tolerance|Salinity tolerance|OsHsp23.7|OsHsp23.7|Drought and salinity tolerance. Sensitivity to mannitol and salt during germination stage.	0.0421686746987952	0.0681818181818182	1	1.32939147573294	20	1	LOC_Os12g38510
+Morphological trait|Root|EL5|Elicitor 5|Maintenance of cell viability of root primordia.	0.0454545454545455	0.0681818181818182	-0.780821917808219	-1.68894601542416	9	4	LOC_Os02g36619, LOC_Os02g36670, LOC_Os02g36690, LOC_Os02g36710
+Morphological trait|Root|cpt1|Coleoptile phototropism 1|Root and seedling phototropism. Auxin translocation.	0.907630522088353	0.907630522088353	0.552631578947368	0.734663710273466	451	1	LOC_Os02g37160
+Morphological trait|Shoot seedling|cpt1|Coleoptile phototropism 1|Root and seedling phototropism. Auxin translocation.	0.907630522088353	0.907630522088353	0.552631578947368	0.734663710273466	451	1	LOC_Os02g37160
